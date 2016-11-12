@@ -2,7 +2,7 @@
 
 ## An overview
 
-Humanity has spread out into the stars in staggering numbers from its home of Earth in the Sol System, and in all shapes in sizes- from personal vessels, pirate ships, and trans-stellar corporations to colonizing, governments, and religious spread. They've quickly become one of the more powerful civilizations, nearing the strengthes of the Skrell, Resomi, and Kharmaan. This has come though, at quite the cost. Over the course of human history, especially of that beginning in the 21st Century, Humanity has had to tackle many different problems to get to where it is today. 
+Humanity has spread out into the stars in staggering numbers from its home of Earth in the Sol System, and in all shapes in sizes- from personal vessels, pirate ships, and trans-stellar corporations to colonizing, governments, and religious spread. They've quickly become one of the more powerful civilizations, nearing the strengthes of the Skrell and Resomi. This has come though, at quite the cost. Over the course of human history, especially of that beginning in the 21st Century, Humanity has had to tackle many different problems to get to where it is today. 
 
 Now, most likely if you're reading this you're probably a human, or you're looking for more insight into Humanity. In general, they come in all shapes in sizes, names, ethnicities- they are a very mixed species, yet somehow they work together. 
 
@@ -120,10 +120,6 @@ This is a centralized structure of what happened to humanity in the last hundred
 * 30 August 2555: The push for a more formal diplomatic forum between the many peaceful species leads to a proposal for an Interstellar Assembly. Negotiations for founding this Assembly begin.
 
 * 2556 : A new brand of Luddites for the 26th Century begin to terrorize interests in the Outer Rim of Human space, attacking mostly IPCs and highly advanced facilities. They are labelled as a Terrorist Group. 
-
-* 6 February 2556: Disastrous first contact with the Khaarman Ascent following and investigation into missing vessels by the Defense Forces. Three corvettes, two, frigates, and one cruiser lost with all hands. Incident largely classified, known only to higher levels of the government and military. 
-
-* 19 May 2556: Establishment of Skrell-controlled DMZ between SolGov territory, and the Khaarman Ascent. The Khaarman Cold War begins. Multiple government agencies founded for internal and external security. Defense Forces begin a process of refitting and retraining to face an external enemy. Officially this buildup is to counter aggressive moves by the Confederacy of Man, but rumors fly among conspiracy circles.
 
 * 2556 : The most advanced Space Station in Human History, the NSS Exodus, makes its home in the Nyx System as the system around it becomes home to many undesirables and criminals.
 
