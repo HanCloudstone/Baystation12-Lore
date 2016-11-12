@@ -116,7 +116,6 @@ In short, most Resomii from the Core Colonies who have fled, are generally wary 
 * Vox Shoal: At War; Vox are seen as aggressive, violent creatures that prey on Resomi without mercy. Vox consumption of living Resomi do not help this image.
 * Ahdomai: No contact.
 * Moghes Hegemony: No contact .
-* The Kharmaan Ascent: Informally at War; Intermittent conflict, Border disputes.
 * The Positronic Union: Presence known; being Synthetics of non-Resomi origin they are watched dangerously close, but no conflict has been recorded as of yet.
 
 
